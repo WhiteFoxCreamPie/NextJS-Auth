@@ -1,4 +1,4 @@
-<h1>Next.JS Auth Page (In develop)</h1>
+<h1>Next.JS Auth Page (Deprecated)</h1>
 
 > [!CAUTION]\
 > This repository is no longer updated, some issue can't be fix and will be archiver soon
