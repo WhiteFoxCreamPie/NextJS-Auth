@@ -1,7 +1,7 @@
 <h1>Next.JS Auth Page (Deprecated)</h1>
 
 > [!CAUTION]\
-> This repository is no longer updated, some issue can't be fix and will be archiver soon
+> This repository is no longer updated, some issue can't be fix and I archive this repository 
 
 - This is the Next.JS Auth Page that make the authentication system
 - By using Next.JS, TailwindCSS, Shadcn(React Components FrameWork) make the page something beautiful
